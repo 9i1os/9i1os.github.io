@@ -2205,7 +2205,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5b6ba6;
+			border-color: #a2d4eb;
 		}
 
 	select {
@@ -2220,7 +2220,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #2e3141;
+			background: #c2c7ce;
 		}
 
 		select:focus::-ms-value {
