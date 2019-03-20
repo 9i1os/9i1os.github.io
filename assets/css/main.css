@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
+
 
 /*
 	Solid State by HTML5 UP
@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #dfdfdf04;
+		background-color: #746e6e85;
 		background-image: linear-gradient(to top, rgba(248, 248, 248, 0), rgba(145, 145, 145, 0.849)), url("../../images/bg.jpg");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
@@ -186,7 +186,6 @@ input, select, textarea {
 			text-decoration: none;
 			border-bottom: 0;
 			display: block;
-			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 0.8em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
@@ -245,7 +244,6 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
@@ -2160,7 +2158,6 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		display: block;
-		font-family: Raleway, Helvetica, sans-serif;
 		font-size: 0.8em;
 		font-weight: 700;
 		letter-spacing: 0.1em;
@@ -2838,7 +2835,6 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: Raleway, Helvetica, sans-serif;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.75em;
@@ -3072,7 +3068,6 @@ input, select, textarea {
 			}
 
 		#header nav {
-			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 0.8em;
 			font-weight: 700;
 			height: 3em;
@@ -3244,7 +3239,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #08080886;
+			background: #2c2a2a86;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3290,7 +3285,6 @@ input, select, textarea {
 					border-radius: 5px;
 					border: 0;
 					display: block;
-					font-family: Raleway, Helvetica, sans-serif;
 					font-size: 0.8em;
 					font-weight: 200;
 					letter-spacing: 0.1em;
@@ -3300,7 +3294,7 @@ input, select, textarea {
 				}
 
 					#menu .links li a:hover {
-						background: #293529;
+						background: #4e4343dc;
 					}
 
 		@media screen and (max-width: 736px) {
@@ -3364,7 +3358,7 @@ input, select, textarea {
 
 			#banner .logo .icon {
 				border-radius: 100%;
-				border: solid 2px rgba(255, 255, 255, 0.125);
+				border: solid 2px rgba(61, 60, 60, 0.815);
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
@@ -3392,7 +3386,7 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+			border-bottom: solid 2px rgba(36, 36, 36, 0.808);
 			font-size: 2.25em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
@@ -3416,20 +3410,21 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
+			text-align: justify;
+			text-indent: 2em;
 		}
 
 		@media screen and (max-width: 1280px) {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #f8f9ff50;
-				background-image: linear-gradient(to top, rgba(199, 207, 247, 0.103), rgba(105, 105, 105, 0.253)), url("../../images/bg.jpg");
+				background-color: transparent;
+				background-image: linear-gradient(to top, rgba(61, 61, 65, 0.719), rgba(128, 114, 114, 0.664)), url("../../images/bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
@@ -3526,7 +3521,6 @@ input, select, textarea {
 		}
 
 		#wrapper > header p {
-			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
@@ -3582,7 +3576,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #364aa105;
+		background-color: #364aa13a;
 		margin: 6.5em 0;
 		position: relative;
 	}
