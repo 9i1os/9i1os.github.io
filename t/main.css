@@ -3040,7 +3040,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgb(255, 255, 255);
+		background-color: rgba(99, 97, 97, 0.911);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3534,7 +3534,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #f8f8f800;
-			background-image: linear-gradient(to top, rgba(181, 185, 185, 0.534), rgba(67, 85, 185, 0.103)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(70, 69, 69, 0.548), rgba(71, 71, 71, 0.534)), url("../../images/bg.jpg");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
 			margin-bottom: -6.5em;
@@ -3576,7 +3576,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #364aa13a;
+		background-color: #464646d0;
 		margin: 6.5em 0;
 		position: relative;
 	}
