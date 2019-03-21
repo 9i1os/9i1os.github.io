@@ -2,7 +2,7 @@ body {
     /*
      *text-align: center;
      */
-    width: 720px;
+    width: 50%;
     margin: auto;
    
     padding: 2px 0;
@@ -60,6 +60,8 @@ a:hover {
 .aligncenter img{
     /*text-align: center;*/
     clear: both;
+    width: 50%;
+    height: 50%;
     display: block;
     margin: auto;
     border-radius: 5px 5px 5px 5px;
