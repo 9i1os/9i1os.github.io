@@ -5,7 +5,7 @@ body {
     width: 50%;
     margin: auto;
    
-    padding: 2px 0;
+    padding: 2px 2px;
 
 }
 
@@ -25,6 +25,14 @@ h2 {
     padding-left: 1em;
 }
 
+h5{ font-size: 13px;
+    padding-left: 1em;
+    text-align: justify;
+    margin: 0px 0px;
+    font-weight: 400;
+    color: #727171
+}
+
 p {width: auto;
     margin: 0px 0px;
     line-height: 1.7;
@@ -35,12 +43,20 @@ p {width: auto;
     text-align: justify;
 }
 blockquote
-{background:rgb(240, 241, 252);
-border-left:5px solid rgb(0, 250, 175);padding:5px 6px;margin-top:6px}
+{background:rgb(245, 246, 250);
+    font-size: 14px;
+    padding-left: 1em;
+    text-align: justify;
+    margin: 0px 0px;
+    font-weight: 400;
+border-left:5px solid rgb(186, 187, 187);padding:5px 6px;margin-top:6px}
 
 strong{line-height: 2;
-    background:rgb(236, 235, 235);
-    border-left:4px solid rgb(109, 109, 109);padding:5px 6px;margin-top:6px}
+    font-size: 16px;
+    font-weight: 800;
+    padding:1px 1px;
+
+   }
 
 a {
     margin: 0px 0px;
