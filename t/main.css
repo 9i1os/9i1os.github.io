@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	
 }
 
 ol, ul {
@@ -97,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #fcfcfc85;
+		background-color: #fcfcfc5d;
 		background-image: linear-gradient(to top, rgb(255, 250, 250), rgb(253, 253, 253)), url("../../images/bg-reset.jpg");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
@@ -118,7 +119,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: #080808;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: 300;
@@ -161,6 +162,7 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 12pt;
+				
 			}
 
 		}
@@ -170,14 +172,14 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.35);
-		color: #ffffff;
-		text-decoration: none;
+		border-bottom: dotted 1.5px rgb(80, 239, 250);
+		color: #0461ec;
+		text-decoration: none;font-family:"Times New Roman",Georgia,Serif;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff !important;
+			color: #fcc308 !important;
 		}
 
 		a.special:not(.button) {
@@ -206,7 +208,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out;
 				border-radius: 100%;
-				border: solid 2px rgba(255, 255, 255, 0.125);
+				border: solid 2px rgb(9, 5, 228);
 				content: '\f105';
 				display: inline-block;
 				font-size: 1.25em;
@@ -230,6 +232,7 @@ input, select, textarea {
 	strong, b {
 		color: #111111;
 		font-weight: 600;
+		font-family:"Times New Roman",Georgia,Serif;
 	}
 
 	em, i {
@@ -238,10 +241,11 @@ input, select, textarea {
 
 	p {color: #111111;
 		margin: 0 0 2em 0;
+		font-family:"Times New Roman",Georgia,Serif;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #7e7e7e;
+		color: #352d2d;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
@@ -271,15 +275,16 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 0.7em;
+		font-size: 0.8em;
 	}
 
 	h5 {
-		font-size: 0.7em;
+		font-size: 0.6em;
 	}
 
 	h6 {
-		font-size: 0.7em;
+		font-size: 12px;
+		text-decoration: line-through;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -3433,7 +3438,7 @@ input, select, textarea {
 			text-align: justify;
 			text-indent: 2em;
 			margin: 8px 0px;
-			font-family:"Times New Roman",Georgia,Serif;}
+			}
 
 #banner blockquote
 {background:rgba(32, 32, 32, 0.404);
