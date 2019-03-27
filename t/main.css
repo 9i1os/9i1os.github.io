@@ -3525,15 +3525,15 @@ body{margin:0 auto;}
 			}
 
 				#banner .inner {
-					width: 100%;
+					width:90%;
 				}
 
 		}
 
 		@media screen and (max-width: 736px) {
 
-			#banner {padding: 0.81em 0 1em 0 ;
-				margin-bottom: -2.5em;
+			#banner {padding: 1em 1 1em 0 ;
+				margin-bottom: 0.5em;
 			}
 
 				#banner .logo {
