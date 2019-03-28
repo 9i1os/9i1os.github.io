@@ -244,6 +244,16 @@ border-left: 1.5px solid rgba(1, 217, 255, 0.26);
 border-right: 1.5px solid rgba(1, 217, 255, 0.26);
 padding:3px 3px 3px 3px;}
 
+v{color: #2e09fdfd;
+	border-radius: 5px 5px 5px 5px;
+	border-top: 1.5px solid #04a5e4fd;
+	border-bottom: 1.5px solid #04a5e4fd;
+	border-left: 1.5px solid #04a5e4fd;
+	border-right: 1.5px solid #04a5e4fd;
+	padding:2px 2px 2px 2px;
+
+}
+
 	p {color: #111111;
 		margin: 0 0 2em 0;
 		font-family:"Times New Roman",Georgia,Serif;
