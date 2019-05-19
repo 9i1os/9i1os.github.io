@@ -29,7 +29,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	
 }
 
 ol, ul {
@@ -98,7 +97,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #fcfcfc5d;
+		background-color: #ffffff00;
 		background-image: linear-gradient(to top, rgb(255, 250, 250), rgb(253, 253, 253));
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
@@ -120,7 +119,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #080808;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		
 		font-size: 16.5pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -229,8 +228,8 @@ input, select, textarea {
 			}
 
 	strong, b {
-		color: #185f88;
-		font-weight: 600;
+		color: #0097d3e3;
+		font-weight: bold;
 		font-family:"Times New Roman",Georgia,Serif;
 	}
 
@@ -256,21 +255,9 @@ v{color: #2e09fdfd;
 
 	p {color: #111111;
 		margin: 0 0 2em 0;
-		font-family:"Times New Roman",Georgia,Serif;
+		font-family:Serif;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #352d2d;
-		font-weight: 700;
-		letter-spacing: 0.1em;
-		margin: 0 0 1em 0;
-	}
-
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
-			border-bottom: 0;
-		}
 
 		h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
 			font-weight: 200;
@@ -294,23 +281,9 @@ v{color: #2e09fdfd;
 		color: #031fbe
 }	
 
-	h3 {
-		font-size: 0.9em;
-	}
+	
 
-	h4 {
-		font-size: 0.8em;
-	}
-
-	h5 {
-		font-size: 0.6em;
-	}
-
-	h6 {
-		font-size: 12px;
-		text-decoration: line-through;
-	}
-
+	
 	@media screen and (max-width: 736px) {
 
 		h2 {
@@ -2780,10 +2753,11 @@ v{color: #2e09fdfd;
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
+		font-family:"Times New Roman",Georgia,Serif;
 	}
 
 		table tbody tr {
-			border: solid 1px rgba(255, 255, 255, 0.125);
+			border: solid 1px rgba(75, 74, 74, 0.39);
 			border-left: 0;
 			border-right: 0;
 		}
@@ -2793,11 +2767,11 @@ v{color: #2e09fdfd;
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.15em 0.15em;
 		}
 
 		table th {
-			color: #ffffff;
+			color: #3a3939;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -3362,12 +3336,12 @@ v{color: #2e09fdfd;
 /* Banner */
 
 	#banner {
-		padding: 0.81em 0 1em 0 ;
+		padding: 0.81em 0 1em 0 ;font-family:Serif;
 	}
 
 		#banner .inner {
 			margin: 0 auto;
-			width: 75%;
+			width: 65%;
 		}
 
 		#banner .logo {
@@ -3414,28 +3388,46 @@ v{color: #2e09fdfd;
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			border-bottom: dashed 1.5px rgba(64, 70, 85, 0.993);
+			border-bottom: dashed 1.25px rgba(77, 83, 102, 0.712);
 			font-size: 22px;
 			margin-bottom: 1em;
 			margin-top: 1em;
 			padding-bottom: 0.4em;
 			text-align: center;
 		}
-#banner h1 { font-size: 18px;
+#banner h1 { font-size: 1.5em;
     text-align: center;
 	padding:1px 1px;
 	margin: 8px 0px;
     font-size: 1.5em;
-	font-weight: 500;
+	font-weight:bold;
+}
+#banner h3 { font-size:0.56em;color: #04a187b9;
+    text-align: left;
+	padding:1px 1px;
+	margin: 8px 0px;
+	font-weight:lighter;
+}
+#banner h4 { font-size:0.5em;
+    text-align: center;
+	padding:1px 1px;
+	margin: 8px 0px;
+	font-weight:lighte;
 }
 
-#banner h5{font-size: 13px;
+#banner h5{font-size: 0.4em;
 		padding-left: 0.8em;
 		text-align: justify;
 		margin: 0px 0px;
 		font-weight: 200;
 		color: #022457
 
+	}
+	#banner h6 { font-size:0.8em;
+		text-align: right;
+		padding:1px 1px;
+		margin: 8px 0px;
+		font-weight:bold;
 	}
 
 #banner p {
@@ -3467,17 +3459,14 @@ v{color: #2e09fdfd;
 			}
 
 #banner blockquote
-{background:rgba(255, 254, 254, 0.938);
-	border-radius: 5px 5px 5px 5px;
+{background:rgb(255, 255, 255);
+	border-radius: 2px 2px 2px 2px;
 	font-size: 10px;
     padding-left: 1em;
     text-align: justify;
     font-weight: 200;
-border-top: 1.5px dotted rgb(245, 245, 63);
-border-bottom: 1.5px dotted rgb(245, 245, 63);
-border-left: 1.5px dotted rgb(245, 245, 63);
-border-right: 1.5px dotted rgb(245, 245, 63);
 
+border-left: 2.75px solid rgba(102, 102, 102, 0.753);
 padding:2px 2px 2px 2px;margin-top:3px}
 
 #banner strong{line-height: 2;
@@ -3512,8 +3501,9 @@ padding:2px 2px 2px 2px;margin-top:3px}
 #banner buju
 body{margin:0 auto;}
 			.buju{width:auto;margin:0 auto;
-				background:rgba(243, 241, 241, 0.877);border-radius: 12px 12px 12px 12px;
-				padding:0.2px 8px;margin-bottom:0.2px;}
+				background:rgb(241, 240, 240);border-radius: 12px 12px 12px 12px;
+				padding:0.2px 8px;margin-bottom:0.2px;
+				border-bottom: 1.75px solid rgba(99, 93, 93, 0.74);}
 
 		@media screen and (max-width: 1280px) {
 
@@ -3531,7 +3521,7 @@ body{margin:0 auto;}
 		@media screen and (max-width: 980px) {
 
 			#banner {
-				padding: 0.81em 0 1em 0 ; 
+				padding: 0.51em 0 1em 0 0; 
 				margin-bottom: -0.75em;
 			}
 
@@ -3543,7 +3533,7 @@ body{margin:0 auto;}
 
 		@media screen and (max-width: 736px) {
 
-			#banner {padding: 1em 1 1em 0 ;
+			#banner {padding: 0.51em 0 1em 0 0;
 				margin-bottom: 0.5em;
 			}
 
@@ -3627,7 +3617,7 @@ body{margin:0 auto;}
 
 		#wrapper > header {
 			padding: 0em 0 6.25em 0 ;
-			background-color: #f8f8f800;
+			background-color: #ffffff00;
 			
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
@@ -3671,7 +3661,7 @@ body{margin:0 auto;}
 	}
 
 	.wrapper {
-		background-color: #fdfdfd00;
+		background-color: #ffffff00;
 		
 		position: relative;
 		padding: 1em 1em 0em 0em ;
