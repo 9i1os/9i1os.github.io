@@ -3339,11 +3339,11 @@ v{color: #2e09fdfd;
 
 	#banner {
 		padding: 0.81em 0 1em 0 ;font-family:Serif;
-		background-image: url(/images/lay1.jpg);
+		background-image: url(/images/lay2.jpg);
 		background-repeat: no-repeat;
 		background-position: top;
 		background-size: cover;
-		filter: url(/images/lay1.jpg#blur);
+		filter: url(/images/lay2.jpg#blur);
 	}
 
 		#banner .inner {
