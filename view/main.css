@@ -33,9 +33,6 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
-	list-style: none;
-}
 
 blockquote, q {
 	quotes: none;
@@ -59,6 +56,36 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
+
+
+
+ol {
+	list-style: decimal;
+	margin: 0 0 0.52em 0;
+	padding-left: 0.15em;
+	font-size: 23px;
+}
+
+	ol li {
+		padding-left: 0.15em;font-weight: 600;margin: 0 0 1em 0;
+		color: rgb(0, 255, 98)
+	}
+
+	ul {
+		list-style: disc;
+		margin: 0 0 1em 0;
+		padding-left: 1em;
+		font-style: bold;
+		font-weight: 600;
+		color: rgb(85, 217, 250)
+	}
+
+
+
+
+		ul li {
+			padding-left: 0.15em;
+		}
 
 input::-moz-focus-inner {
 	border: 0;
@@ -167,6 +194,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -318,12 +346,14 @@ v{color: #2e09fdfd;
 
 	code {
 		background: rgba(255, 255, 255, 0.025);
-		border-radius: 5px;
-		border: solid 2px rgba(255, 255, 255, 0.125);
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
+		
+		border-bottom: dashed 2px rgba(0, 171, 184, 0.918);
+		font-family: "SimHei", monospace;
+		font-size: 1.3em;
+		font-weight: lighter;
+		color: #bdbabafd
 		margin: 0 0.25em;
-		padding: 0.25em 0.65em;
+		padding: 0.1em 0.65em;
 	}
 
 	pre {
@@ -546,7 +576,7 @@ v{color: #2e09fdfd;
     text-align: center;
 	padding:1px 1px;
 	margin: 8px 0px;
-    font-size: 1.5em;
+    font-size: 2em;
 	font-weight:bold;
 }
 #banner h3 { font-size:0.56em;color: #04a187b9;
@@ -634,8 +664,8 @@ body{margin:0 auto;}
 			.buju{width:auto;margin:0 auto;
 				background-color:rgba(253, 253, 239, 0.774);border-radius: 12px 12px 12px 12px;
 				background-size: cover;
-				padding:0.2px 8px;margin-bottom:0.2px;
-				border-bottom: 1.75px solid rgba(99, 93, 93, 0.74);}
+				padding:0.2px 8px;margin-bottom:8px;
+				border-bottom: 9.5px solid rgba(99, 93, 93, 0.74);}
 
 		@media screen and (max-width: 1280px) {
 
@@ -790,7 +820,7 @@ body{margin:0 auto;}
     text-align: center;
 	padding:1px 1px;
 	margin: 8px 0px;
-    font-size: 1.5em;
+    font-size: 1.8em;
 	font-weight:bold;
 }
 #banner h3 { font-size:0.56em;color: #04a187b9;
@@ -978,8 +1008,8 @@ padding:2px 2px 2px 2px;margin-top:3px}
 #banner h1 { font-size: 1.5em;
     text-align: center;
 	padding:1px 1px;
-	margin: 8px 0px;
-    font-size: 1.5em;
+	margin: 8px 4px;
+    font-size: 2em;
 	font-weight:bold;
 }
 #banner h3 { font-size:0.56em;color: #04a187b9;
