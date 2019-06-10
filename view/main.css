@@ -312,7 +312,7 @@ v{color: #2e09fdfd;
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
 			padding-bottom: 1em;
-			border-bottom: solid 2px rgb(29, 29, 29);
+			border-bottom: solid 2px rgb(143, 143, 143);
 		}
 
 	h2 {
@@ -601,11 +601,12 @@ v{color: #2e09fdfd;
 	margin: 8px 0px;
 	font-weight:lighter;
 }
-#banner h4 { font-size:0.5em;
+#banner h4 { 
+	font-size:0.85em;
     text-align: center;
 	padding:1px 1px;
 	margin: 8px 0px;
-	font-weight:lighte;
+	font-weight:lighte;color: #9ba1aa
 }
 
 #banner h5{font-size: 0.4em;
@@ -1068,10 +1069,10 @@ padding:2px 2px 2px 2px;margin-top:3px}
 #banner blockquote
 {
 	border-radius: 2px 2px 2px 2px;
-	font-size: 10px;
+	font-size: 23px;
     padding-left: 0em;
     text-align: justify;
-    font-weight: 200;background-color: rgba(236, 227, 202, 0.904);
+    font-weight: 200;background-color: rgba(235, 226, 203, 0.904);
 
 border-left: 2.95px solid rgb(5, 235, 252);
 padding:2px 2px 2px 2px;margin-top:3px}
@@ -1103,14 +1104,15 @@ r{
 #banner .aligncenter img{
     /*text-align: center;*/
     clear: both;
-    object-fit: cover; 
-    display: block;
-    margin: auto;
+	object-fit: cover; 
+	width: 80%;
+
     border-radius: 5px 5px 5px 5px;
 	margin-bottom: 1em;
     margin-top: 1em;
-    position: center;
+    
 }
+
 
 #banner buju
 body{margin:0 auto;}
