@@ -25,9 +25,9 @@ footer, header, hgroup, menu, nav, output, ruby, summary, time, mark, audio, vid
 
 
 
-	section{background-image: url("/111.png");
+	section{background-image: url(images/111.png);
 		background-repeat:no-repeat;
-		background-size: ;}
+		}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
