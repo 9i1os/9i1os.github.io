@@ -6,7 +6,7 @@
 */
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe,  blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -14,16 +14,20 @@ u, i, center, dl, dt, dd, ol, ul, li, fieldset,
 form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
-footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+footer, header, hgroup, menu, nav, output, ruby, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;background-color: rgba(255, 255, 255, 0);
-	
+	vertical-align: baseline;background-color: rgba(255, 255, 255, 0);	
 }
+
+
+
+	section{background-image: url("/111.png");
+		background-repeat:no-repeat;
+		background-size: ;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -47,6 +51,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
 
 body {
 	-webkit-text-size-adjust: none;
@@ -257,11 +263,21 @@ input, select, textarea {
 				background-color: rgba(255, 255, 255, 0.075);
 			}
 
-	strong, b {
-		color: #0097d3e3;
-		font-weight: bold;
-		font-family:"Times New Roman",Georgia,Serif;
+	strong {
+		color: #29a2b3fd;
+		font-weight: lighter;
+		font-family:"SimHei",Georgia,Serif;
 	}
+	b {
+		color: #2df792fd;
+		font-weight: lighter;
+		font-family:"LiSu";
+	}
+
+	
+
+
+
 
 	em, i {
 color: #c43104a6;
@@ -285,12 +301,13 @@ v{color: #2e09fdfd;
 
 	p {color: #000000;
 		margin: 0 0 2em 0;
-		font-family:Serif;
+		
 	}
 
 
 		h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
 			font-weight: 200;
+		}
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
@@ -550,12 +567,14 @@ v{color: #2e09fdfd;
 /* Banner */
 
 	#banner {
-		padding: 0.81em 0 1em 0 ;font-family:Serif;
+		padding: 4em 0 1em 0 ;font-family:Serif;
 	}
 
 		#banner .inner {
 			margin: 0 auto;
 			width: 65%;
+			padding: 4em 0 1em 0;
+			background: transparent;
 		}
 
 
@@ -572,12 +591,12 @@ v{color: #2e09fdfd;
 			padding-bottom: 0.4em;
 			text-align: center;
 		}
-#banner h1 { font-size: 1.5em;
+#banner h1 {
     text-align: center;
 	padding:1px 1px;
-	margin: 8px 0px;
+	margin: 3px 0px;
     font-size: 2em;
-	font-weight:bold;
+	font-weight:bold;background-color: transparent;
 }
 #banner h3 { font-size:0.56em;color: #04a187b9;
     text-align: left;
@@ -631,7 +650,7 @@ border-left: 2.95px solid rgb(5, 235, 252);
 padding:2px 2px 2px 2px;margin-top:3px}
 
 #banner strong{line-height: 2;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 800;
 	padding:1px 1px;
 	background-color: rgba(255, 255, 255, 0);
@@ -662,7 +681,7 @@ padding:2px 2px 2px 2px;margin-top:3px}
 #banner buju
 body{margin:0 auto;}
 			.buju{width:auto;margin:0 auto;
-				background-color:rgba(253, 253, 239, 0.774);border-radius: 12px 12px 12px 12px;
+				background-color:rgba(223, 223, 223, 0.884);border-radius: 12px 12px 12px 12px;
 				background-size: cover;
 				padding:0.2px 8px;margin-bottom:8px;
 				border-bottom: 9.5px solid rgba(99, 93, 93, 0.74);}
@@ -892,7 +911,7 @@ border-left: 2.95px solid rgb(5, 235, 252);
 padding:2px 2px 2px 2px;margin-top:3px}
 
 #banner strong{line-height: 2;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 800;
 	padding:1px 1px;
 	background-color: rgba(255, 255, 255, 0);
@@ -1042,10 +1061,10 @@ padding:2px 2px 2px 2px;margin-top:3px}
 			color: #070707
 			font-weight:200;
 			letter-spacing:0.1em;
-			line-height:1.7;
+			line-height:2;
 			text-align: justify;
 			text-indent:2em;
-			margin: 8px 0px;
+			margin: 15px 5px;
 			background:rgba(255, 255, 255, 0);
 			}
 
@@ -1053,16 +1072,16 @@ padding:2px 2px 2px 2px;margin-top:3px}
 {
 	border-radius: 2px 2px 2px 2px;
 	font-size: 10px;
-    padding-left: 1em;
+    padding-left: 0em;
     text-align: justify;
-    font-weight: 200;background-color: rgba(250, 250, 250, 0.856);
+    font-weight: 200;background-color: rgba(236, 227, 202, 0.904);
 
 border-left: 2.95px solid rgb(5, 235, 252);
 padding:2px 2px 2px 2px;margin-top:3px}
 
 #banner strong{line-height: 2;
-    font-size: 16px;
-    font-weight: 800;
+    font-size: 20px;
+    font-weight: 500;
 	padding:1px 1px;
 	background-color: rgba(255, 255, 255, 0);
 
@@ -1074,7 +1093,14 @@ padding:2px 2px 2px 2px;margin-top:3px}
     font-weight: 200;
     font-size: 1em;
     padding: 1px 0;
-    text-align: justify;
+	text-align: justify;
+}
+
+r{
+	color: #fcadadfd;
+	font-family:"",Georgia,Serif;
+	float:right;
+
 }
 
 #banner .aligncenter img{
@@ -1092,7 +1118,7 @@ padding:2px 2px 2px 2px;margin-top:3px}
 #banner buju
 body{margin:0 auto;}
 			.buju{width:auto;margin:0 auto;
-				background-color:rgba(253, 253, 239, 0.774);border-radius: 12px 12px 12px 12px;
+				background-color:rgba(255, 255, 255, 0);border-radius: 12px 12px 12px 12px;
 				background-size: cover;
 				padding:0.2px 8px;margin-bottom:0.2px;
 				border-bottom: 1.75px solid rgba(99, 93, 93, 0.74);}
