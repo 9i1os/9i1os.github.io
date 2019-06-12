@@ -73,17 +73,16 @@ ol {
 }
 
 	ol li {
-		padding-left: 0.15em;font-weight: 600;margin: 0 0 1em 0;
-		color: rgb(0, 255, 98)
+		padding-left: 0.15em;font-weight: 200;margin: 0 0 1em 0;
+		color: rgb(12, 238, 163)
 	}
 
 	ul {
 		list-style: disc;
 		margin: 0 0 1em 0;
 		padding-left: 1em;
-		font-style: bold;
-		font-weight: 600;
-		color: rgb(85, 217, 250)
+		font-weight: 800;
+		color: rgb(105, 128, 230)
 	}
 
 
@@ -361,11 +360,11 @@ v{color: #2e09fdfd;
 	code {
 		background: rgba(255, 255, 255, 0.025);
 		
-		border-bottom: dashed 2px rgba(0, 171, 184, 0.918);
+		border-bottom: dashed 2px rgb(199, 186, 71);
 		font-family: "SimHei", monospace;
 		font-size: 1.3em;
 		font-weight: lighter;
-		color: #bdbabafd
+		color: #723e6bfd
 		margin: 0 0.25em;
 		padding: 0.1em 0.65em;
 	}
@@ -644,7 +643,7 @@ v{color: #2e09fdfd;
     text-align: justify;
     font-weight: 200;background-color: rgba(250, 250, 250, 0.856);
 
-border-left: 2.95px solid rgb(5, 235, 252);
+border-left: 2.95px solid rgb(187, 255, 0);
 padding:2px 2px 2px 2px;margin-top:3px}
 
 #banner strong{line-height: 2;
@@ -826,7 +825,7 @@ body{margin:0 auto;}
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			border-bottom: dashed 1.25px rgba(94, 130, 248, 0.712);
+			border-bottom: dashed 1.25px rgba(197, 197, 197, 0.712);
 			font-size: 20px;
 			margin-bottom: 1em;
 			margin-top: 1em;
@@ -1015,7 +1014,7 @@ padding:2px 2px 2px 2px;margin-top:3px}
 
 
 		#banner h2 {
-			border-bottom: dashed 1.25px rgba(94, 130, 248, 0.712);
+			border-bottom: dashed 1.25px rgba(187, 187, 187, 0.712);
 			font-size: 20px;
 			margin-bottom: 1em;
 			margin-top: 1em;
@@ -1095,7 +1094,7 @@ padding:2px 2px 2px 2px;margin-top:3px}
 }
 
 r{
-	color: #fcadadfd;
+	color: #aca8a8fd;
 	font-family:"",Georgia,Serif;
 	float:right;
 
