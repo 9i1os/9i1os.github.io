@@ -1,26 +1,66 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss version='2.0'>
-<channel>
-<title>逆光</title>
-   <link href="https://69o.github.io/t/i.xml"></link>
-<item>
- <title>逆光前行</title>
- <link>https://69o.github.io/t/</link>
- <description>何时奇迹再现</description>
- <image href="http://fdfs.xmcdn.com/group61/M03/36/29/wKgMcF0qurXBMPE0AAEjHiBxYQc280.jpg"></image><enclosure url="http://cdn.lizhi.fm/audio/2018/12/06/5013518346637340678_ud.mp3" length="5000" type="audio/mpeg"/> 
-</item> 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="http://69o.github.io/t/i.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright>Copyright 逆光Hi</copyright>
+        <language>zh-cn</language>
+        <link>http://</link>
+        <title>逆光Hi</title>
+        <itunes:keywords></itunes:keywords>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>逆光Hi</itunes:subtitle>
+        <itunes:summary>希望你和我们一起，遇见美好。</itunes:summary>
+        <itunes:owner>
+            <itunes:name>逆光Hi</itunes:name>
+            
+              <itunes:email>null@xx.com </itunes:email>
+            
+        </itunes:owner>
+        <description>希望你和我们一起，遇见美好。</description>
+        <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"/>
+        
+            
+                <itunes:category text="Music">
+                    <itunes:category text="Music"/>
+                </itunes:category>
+            
+        
+        <itunes:explicit>no</itunes:explicit>
+        
+         
+
 
 <item>
- <title>前行之路</title>
- <link></link>
- <description>何时见云天</description>
- <image href="http://fdfs.xmcdn.com/group61/M03/36/29/wKgMcF0qurXBMPE0AAEjHiBxYQc280.jpg"></image>
- <enclosure url="http://jt.ximalaya.com/wKgMZl0qvZWj6bFHAFxebwcO63E609.m4a?channel=rss&amp;album_id=8678527&amp;track_id=197843173&amp;uid=2312289&amp;jt=http://audio.xmcdn.com/group61/M00/36/7B/wKgMZl0qvZWj6bFHAFxebwcO63E609.m4a" type="text/html" length="17926510" />
-    <guid>http://audio.xmcdn.com/group61/M00/36/7B/wKgMZl0qvZWj6bFHAFxebwcO63E609.m4a</guid>
-    <pubDate>Mon, 15 Jul 2019 10:00:04 GMT</pubDate>
-    <duration>12:27</duration>
-    <link>http://www.ximalaya.com/2312289/sound/197843173</link>
-</item> 
-
-</channel>
+    <title>月亮与六便士 · Wlson</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>月亮与六便士 · Wlson</itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"></itunes:image>
+    <enclosure url="http://jt.ximalaya.com/wKgMcV0m333g7LviAF8js0e-xPI868.m4a?channel=rss&amp;album_id=4258477&amp;track_id=196881210&amp;uid=35249132&amp;jt=http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a" type="text/html" length="30786734" />
+    <guid>http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a</guid>
+    <pubDate>Thu, 11 Jul 2019 07:05:49 GMT</pubDate>
+    <itunes:duration>12:50</itunes:duration>
+    <link></link>
+    <description>逆光Hi</description>
+    <itunes:order>1</itunes:order>
+</item>
+  
+<item>
+    <title>够钟-逆光</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>够钟</itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"></itunes:image>
+    <enclosure url="http://upscuw.changba.com/1177995124.mp3" type="text/html" length="34" />
+    <guid>http://upscuw.changba.com/1177995124.mp3</guid>
+    <pubDate>Thu, 16 Jul 2019 10:05:49 GMT</pubDate>
+    <itunes:duration></itunes:duration>
+    <link></link>
+    <description>逆光Hi</description>
+    <itunes:order>1</itunes:order>
+</item>
+ 
+    </channel>
 </rss>
