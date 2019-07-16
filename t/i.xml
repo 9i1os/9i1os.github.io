@@ -4,7 +4,7 @@
      version="2.0">
     <channel>
         <atom:link href="http://69o.github.io/t/i.xml" type="application/rss+xml" rel="self"></atom:link>
-        <copyright>Copyright 逆光Hi</copyright>
+        <copyright>Copyright 逆光Hi-逆光电台</copyright>
         <language>zh-cn</language>
         <link>http://</link>
         <title>逆光Hi</title>
@@ -19,7 +19,7 @@
             
         </itunes:owner>
         <description>希望你和我们一起，遇见美好。</description>
-        <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"/>
+        <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"/>
         
             
                 <itunes:category text="Music">
@@ -37,7 +37,7 @@
     <itunes:author>逆光Hi</itunes:author>
     <itunes:subtitle>月亮与六便士 · Wlson</itunes:subtitle>
     <itunes:summary>逆光Hi</itunes:summary>
-    <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"></itunes:image>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
     <enclosure url="http://jt.ximalaya.com/wKgMcV0m333g7LviAF8js0e-xPI868.m4a?channel=rss&amp;album_id=4258477&amp;track_id=196881210&amp;uid=35249132&amp;jt=http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a" type="text/html" length="30786734" />
     <guid>http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a</guid>
     <pubDate>Thu, 11 Jul 2019 07:05:49 GMT</pubDate>
@@ -52,14 +52,24 @@
     <itunes:author>逆光Hi</itunes:author>
     <itunes:subtitle>够钟</itunes:subtitle>
     <itunes:summary>逆光Hi</itunes:summary>
-    <itunes:image href="http://wx4.sinaimg.cn/large/4aff7849ly1g4z7jo4ne2j21cr1s1b2b.jpg"></itunes:image>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
     <enclosure url="http://upscuw.changba.com/1177995124.mp3" type="text/html" length="34" />
-    <guid>http://upscuw.changba.com/1177995124.mp3</guid>
-    <pubDate>Thu, 16 Jul 2019 10:05:49 GMT</pubDate>
-    <itunes:duration></itunes:duration>
+    <pubDate>16 Jul 2019</pubDate>
     <link></link>
     <description>逆光Hi</description>
-    <itunes:order>1</itunes:order>
+    <itunes:order>2</itunes:order>
+</item>
+
+<item>
+    <title>妖蝠-双城记</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>请您欣赏</itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
+    <enclosure url="http://wsaudio.bssdlbig.kugou.com/1812302351/5opxbpnMILMaHr7zb5uUFQ/1546271506/bss/extname/wsaudio/60d34da69d471c953b5729a508eb6f92.mp3" type="text/html" length="34" />
+    <pubDate>16 Jul 2019</pubDate>
+    <description>逆光Hi：好听的歌，分享给你</description>
+    <itunes:order>3</itunes:order>
 </item>
  
     </channel>
