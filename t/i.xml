@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding='UTF-8'?>
-<rss version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
 <channel>
 <title>逆光</title>
-   <atom:link href="https://69o.github.io/t/i.xml" type="application/rss+xml" rel="self"></atom:link>
+   <link href="https://69o.github.io/t/i.xml"></link>
 <item>
  <title>逆光前行</title>
  <link>https://69o.github.io/t/</link>
  <description>何时奇迹再现</description>
- <itunes:image href="http://fdfs.xmcdn.com/group61/M03/36/29/wKgMcF0qurXBMPE0AAEjHiBxYQc280.jpg"></itunes:image><enclosure url="http://cdn.lizhi.fm/audio/2018/12/06/5013518346637340678_ud..mp3" length="5000" type="audio/mpeg" /> 
- <link>https://github.com/t</link></item> 
+ <image href="http://fdfs.xmcdn.com/group61/M03/36/29/wKgMcF0qurXBMPE0AAEjHiBxYQc280.jpg"></image><enclosure url="http://cdn.lizhi.fm/audio/2018/12/06/5013518346637340678_ud..mp3" length="5000" type="audio/mpeg" /> 
+ <link>https://github.com/t</link>
+</item> 
 </channel>
 </rss>
