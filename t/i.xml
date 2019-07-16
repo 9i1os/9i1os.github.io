@@ -13,10 +13,7 @@
         <itunes:subtitle>逆光Hi</itunes:subtitle>
         <itunes:summary>希望你和我们一起，遇见美好。</itunes:summary>
         <itunes:owner>
-            <itunes:name>逆光Hi</itunes:name>
-            
-              <itunes:email>null@xx.com </itunes:email>
-            
+        <itunes:name>逆光Hi</itunes:name>  
         </itunes:owner>
         <description>希望你和我们一起，遇见美好。</description>
         <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"/>
@@ -29,8 +26,6 @@
         
         <itunes:explicit>no</itunes:explicit>
         
-         
-
 
 <item>
     <title>月亮与六便士 · Wlson</title>
@@ -38,7 +33,6 @@
     <itunes:subtitle>月亮与六便士 · Wlson</itunes:subtitle>
     <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
     <enclosure url="http://jt.ximalaya.com/wKgMcV0m333g7LviAF8js0e-xPI868.m4a?channel=rss&amp;album_id=4258477&amp;track_id=196881210&amp;uid=35249132&amp;jt=http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a" type="text/html" length="33" />
-    <guid>http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a</guid>
     <pubDate>1 Jun 2019</pubDate>
     <description>逆光Hi</description>
     <itunes:order>1</itunes:order>
@@ -62,7 +56,7 @@
     <itunes:subtitle>请您欣赏</itunes:subtitle>
     <itunes:summary>逆光Hi</itunes:summary>
     <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
-    <enclosure url=http://mi0.mmmono.com/fafd0904bafe0c71825a6826ef863a9b.mp3 "" type="text/html" length="35" />
+    <enclosure url="http://mi0.mmmono.com/fafd0904bafe0c71825a6826ef863a9b.mp3" type="text/html" length="35" />
     <pubDate>10 Jun 2019</pubDate>
     <description>逆光Hi：聆听乐享，品味韶光。♥最好的债
 </description>
