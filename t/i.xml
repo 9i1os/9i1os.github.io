@@ -69,8 +69,89 @@
     <itunes:subtitle>请您欣赏</itunes:subtitle>
     <itunes:summary>逆光Hi</itunes:summary>
     <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
+    <enclosure url="<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="http://69o.github.io/t/i.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright>Copyright 逆光Hi-逆光电台</copyright>
+        <language>zh-cn</language>
+        <link>http://</link>
+        <title>逆光Hi</title>
+        <itunes:keywords></itunes:keywords>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>逆光Hi</itunes:subtitle>
+        <itunes:summary>希望你和我们一起，遇见美好。</itunes:summary>
+        <itunes:owner>
+        <itunes:name>逆光Hi</itunes:name>  
+        </itunes:owner>
+        <description>希望你和我们一起，遇见美好。</description>
+        <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"/>
+        
+            
+                <itunes:category text="Music">
+                    <itunes:category text="Music"/>
+                </itunes:category>
+            
+        
+        <itunes:explicit>no</itunes:explicit>
+        
+
+<item>
+    <title>月亮与六便士 · Wlson</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>月亮与六便士 · Wlson</itunes:subtitle>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
+    <enclosure url="http://jt.ximalaya.com/wKgMcV0m333g7LviAF8js0e-xPI868.m4a?channel=rss&amp;album_id=4258477&amp;track_id=196881210&amp;uid=35249132&amp;jt=http://audio.xmcdn.com/group62/M02/02/32/wKgMcV0m333g7LviAF8js0e-xPI868.m4a" type="text/html" length="33" />
+    <pubDate>1 Jun 2019</pubDate>
+    <description>逆光Hi</description>
+    <itunes:order>1</itunes:order>
+</item>
+  
+<item>
+    <title>音频节目</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
+    <enclosure url="http://upscuw.changba.com/1177995124.mp3" type="text/html" length="34" />
+    <pubDate>6 Jun 2019</pubDate>
+    <description>逆光Hi♥够钟</description>
+    <itunes:order>2</itunes:order>
+</item>
+
+<item>
+    <title>音频节目</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>请您欣赏</itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
+    <enclosure url="http://mi0.mmmono.com/fafd0904bafe0c71825a6826ef863a9b.mp3" type="text/html" length="35" />
+    <pubDate>10 Jun 2019</pubDate>
+    <description>逆光Hi：聆听乐享，品味韶光。♥最好的债
+</description>
+    <itunes:order>3</itunes:order>
+</item>
+
+<item>
+    <title>音频节目</title>
+    <itunes:author>逆光Hi</itunes:author>
+    <itunes:subtitle>请您欣赏</itunes:subtitle>
+    <itunes:summary>逆光Hi</itunes:summary>
+    <itunes:image href="https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9077.png"></itunes:image>
     <enclosure url="http://lzscuw.changba.com/1139346405.mp3" type="text/html" length="34" />
     <enclosure url="http://audio.xmcdn.com/group63/M09/5A/30/wKgMcl0tjhnzMwXrACQpDFfdtbo255.m4a" type="text/html" length="35" /><>
+    <pubDate>17 Jun 2019</pubDate>
+    <description>逆光Hi：聆听乐享，品味韶光。♥各自远扬
+</description>
+    <itunes:order>4</itunes:order>
+</item>
+
+
+    </channel>
+</rss>http://lzscuw.changba.com/1139346405.mp3" type="text/html" length="34" />
+    <enclosure url="http://audio.xmcdn.com/group63/M09/5A/30/wKgMcl0tjhnzMwXrACQpDFfdtbo255.m4a" type="text/html" length="35"/>
     <pubDate>17 Jun 2019</pubDate>
     <description>逆光Hi：聆听乐享，品味韶光。♥各自远扬
 </description>
